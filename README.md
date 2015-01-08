@@ -1,0 +1,1 @@
+Full device source from LG D315 (F70n)
